@@ -3,14 +3,16 @@
 A minimal data science project structure inspired by the structure used in Real Python's Data Version Control tutorial ([here](https://realpython.com/python-data-version-control/)) and drivendata's cookiecutter data science template ([here](http://drivendata.github.io/cookiecutter-data-science/)).
 
 ### Starting a New Project
---
+---  
+
 1. Ensure `cookiecutter` is installed.
-2. In the directory where the project is to be located run `ccds github_link_here`
+2. In the directory where the project is to be located run `cookiecutter https://github.com/jmischung/Cookiecutter-Template-Data-Science-Minimal`
 
 <br>
 
 ### Default Project Structure
---
+---  
+
 This structure is meant for personal organization. If this project is meant to be stored and/or shared publicly a license should be added.
 
 ```
